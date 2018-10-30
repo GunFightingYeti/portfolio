@@ -1,6 +1,7 @@
 {
     "title": "Grayscale",
     "name": "startbootstrap-grayscale",
+    "main": "index.html",
     "version": "4.1.1",
     "description": "A grayscale one page HTML theme for Bootstrap.",
     "keywords": [
